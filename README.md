@@ -64,7 +64,11 @@ python test.py \
 
 This work has not yet been published, so stay tuned for our other work if possible!
 
-[**Dynamic context-driven progressive image inpainting with auxiliary generative units**](https://link.springer.com/article/10.1007/s00371-023-03045-z)
+**Dynamic context-driven progressive image inpainting with auxiliary generative units**<br>
+
+_Zhiwen Wang, Kai Li, Jinjia Peng_<br>
+In The visual Computer (2023)
+[**Paper**](https://link.springer.com/article/10.1007/s00371-023-03045-z) | [**Code**](https://github.com/slowwords/DCDPI.git)
 
 ```
 @article{Wang_2023_TVCJ,
