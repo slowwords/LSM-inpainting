@@ -68,6 +68,7 @@ This work has not yet been published, so stay tuned for our other work if possib
 
 _Zhiwen Wang, Kai Li, Jinjia Peng_<br>
 In The visual Computer (2023)
+
 [**Paper**](https://link.springer.com/article/10.1007/s00371-023-03045-z) | [**Code**](https://github.com/slowwords/DCDPI.git)
 
 ```
