@@ -1,7 +1,7 @@
 # LSM-inpainting
 <img src="./imgs/CelebA.png" alt="result" style="zoom:80%;" />
-**Image inpainting based on localized step modulation**
-<br>_Zhiwen Wang<br>
+**Image inpainting based on localized step modulation**<br>
+_Zhiwen Wang<br>
 
 ## Introduction
 
