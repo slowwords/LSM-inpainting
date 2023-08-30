@@ -64,7 +64,7 @@ python test.py \
 
 This work has not yet been published, so stay tuned for our other work if possible!
 
-[**Paper**](https://link.springer.com/article/10.1007/s00371-023-03045-z)
+[**Dynamic context-driven progressive image inpainting with auxiliary generative units**](https://link.springer.com/article/10.1007/s00371-023-03045-z)
 
 ```
 @article{Wang_2023_TVCJ,
